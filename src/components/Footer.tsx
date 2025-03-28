@@ -1,4 +1,5 @@
 import React from "react";
+import Link from "next/link"; // Next.js Link bileşeni
 
 export default function Footer() {
   return (
@@ -7,6 +8,14 @@ export default function Footer() {
         <p className="text-sm">
           Copyright © 2025 Palgo Ai. All rights reserved.
         </p>
+        <div className="mt-4">
+          <Link 
+            href="/terms-and-conditions" // Next.js'te 'to' yerine 'href' kullanılır
+            className="text-sm text-blue-500 hover:text-blue-700"
+          >
+            Terms & Conditions
+          </Link>
+        </div>
       </div>
     </footer>
   );

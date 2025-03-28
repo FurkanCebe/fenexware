@@ -16,7 +16,7 @@ const geistMono = Geist_Mono({
 });
 
 export const metadata: Metadata = {
-  title: "Palgo.ai",
+  title: "Fenexware",
   description:
     "Palgo Ai is a trading platform that provides advanced tools for traders.",
 };

@@ -6,25 +6,15 @@ import { Collapse } from "antd";
 const faqData = [
   {
     key: "1",
-    question: "How does PalgoAI work?",
+    question: "What is the best AI interior design app?",
     answer:
-      "We offer a 30-day money back guarantee, so you can try PalgoAI with zero risk!",
+      "The best interior design AI tools let you visualize your space with ease. With the Palgo AI app, you can transform empty and furnished rooms through virtual staging and redesign. The app offers over 30 design styles, ensuring a highly personalized experience. It provides quick interior decorating inspiration and innovative ideas for any space, catering to interior designers, homeowners, architects, and real estate professionals.",
   },
   {
     key: "2",
-    question: "Can I try PalgoAI for free?",
+    question: "How to use AI to design a room?",
     answer:
-      "We offer a 30-day money back guarantee, so you can try PalgoAI with zero risk!",
-  },
-  {
-    key: "3",
-    question: "Can I use PalgoAI indicators on any trading platform?",
-    answer: "No, you can only use PalgoAI's indicators on TradingView.",
-  },
-  {
-    key: "4",
-    question: "Can I cancel my subscription at any time?",
-    answer: "Yes, you can cancel your subscription at any time.",
+      "Palgo AI uses generative AI technology to visualize diverse styles, furniture arrangements, and color palettes. Upload pictures of your room, and select your preferred mode and style. AI will generate customized design ideas based on your input. You can edit the generated designs before using the final product for personal or professional projects.",
   },
 ];
 

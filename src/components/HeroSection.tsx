@@ -40,13 +40,13 @@ export default function HeroSection() {
     <div className="max-w-4xl flex flex-col items-center justify-start gap-4">
       <StarComponent />
       <h1 className="text-4xl text-center font-bold bg-gradient-to-r from-primaryBlack to-primary dark:from-primary dark:to-[#0ad2ff] text-transparent bg-clip-text">
-        Advanced Tools for
-        <br />
-        Smarter Trading Decisions
+        Palgo AI:
+         <br /> 
+         AI Interior Design
       </h1>
 
       <p className="mt-4 text-sm text-center text-primaryGrey dark:text-lightBg">
-        Simplify your market analysis and supercharge your trading strategy.
+      Transform empty or furnished spaces into stunning interiors with Palgo AI.<br />  Upload a picture of your room, choose a design style, and reimagine your interior space with AI.
       </p>
       <PrimaryButton
         onClick={() => {
@@ -56,7 +56,7 @@ export default function HeroSection() {
         Get 7 Days Risk Free
       </PrimaryButton>
       <Image
-        src="/hero-chart.webp"
+        src="/ai-interior-design_hero2x.webp"
         alt="Hero Image"
         width={600}
         height={400}

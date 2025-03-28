@@ -70,7 +70,7 @@ export default function Header() {
           </li>
           <li className="text-center flex items-center">
             <a
-              href="https://discord.gg/hJbFGKsNGw"
+              href="https://discord.gg"
               target="_blank"
               rel="noreferrer"
               className="flex items-center justify-center gap-1"

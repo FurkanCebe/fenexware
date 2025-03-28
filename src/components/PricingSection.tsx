@@ -12,19 +12,18 @@ export default function PricingSection() {
       <PricingCard
         title="Essential"
         price="$19.99"
-        features={["SFX Algo", "Price Action Toolkit"]}
+        features={["Palgo AI App", "7/24 Support", "Daily 20 Interior Designs"]}
       />
       <PricingCard
         title="Premium"
         price="$29.99"
         isPopular
-        features={["SFX Algo", "24/7 Support"]}
+        features={["Palgo AI App", "7/24 Support",  "Daily 20 Interior Designs", "Mobile App Access"]}
       />
       <PricingCard
         title="Pro"
         price="$39.99"
-        isPopular
-        features={["MTF Zones", "Price Action Toolkit", "24/7 Support"]}
+        features={["Palgo AI App", "7/24 Support", "Unlimited Interior Designs", "Mobile App Access"]}
       />
     </div>
   );
