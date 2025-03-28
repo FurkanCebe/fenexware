@@ -41,7 +41,7 @@ const featureCards: FeatureCard[] = [
       {
         title: "Fast-track your design",
         description:
-          "Generate stunning interiors with AI, so you can free up your time and focus on bringing your vision to life. With the AI home design generator, crafting your dream space takes just minutes.",
+          "Generate stunning interiors with AI, so you can free up your time and focus on bringing your vision to life. With the Palgo AI, crafting your dream space takes just minutes.",
       },
       {
         title: "Use anywhere, anytime",

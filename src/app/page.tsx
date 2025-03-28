@@ -35,13 +35,13 @@ export default function Home() {
     <>
       <section
         id="home"
-        className="min-h-screen w-full flex justify-center bg-lightBg dark:bg-darkBg transition-colors duration-500 py-10 pt-32"
-        style={{
-          backgroundImage: "url('/dark-background.svg')",
-          backgroundRepeat: "no-repeat",
-          backgroundPositionX: "50%",
-          backgroundPositionY: "5%",
-        }}
+        className="min-h-screen w-full flex justify-center bg-lightBg dark:bg-darkBg transition-colors duration-500 py-10 pt-10"
+        // style={{
+        //   backgroundImage: "url('/dark-background.svg')",
+        //   backgroundRepeat: "no-repeat",
+        //   backgroundPositionX: "50%",
+        //   backgroundPositionY: "5%",
+        // }}
       >
         <HeroSection />
       </section>

@@ -12,7 +12,7 @@ export default function PrimaryButton({
   return (
     <button
       className="bg-[#02b0b0] text-[#effbfb] text-sm font-bold rounded-lg py-2 px-4 transition  
-  hover:bg-[#029090] active:bg-[#026b6b] dark:bg-[#027272] dark:hover:bg-[#025b5b] dark:active:bg-[#014040]"
+  hover:bg-[#029090] active:bg-[#026b6b] dark:bg-[#3366ff] dark:hover:bg-[#025b5b] dark:active:bg-[#014040]"
       {...props}
     >
       {children}

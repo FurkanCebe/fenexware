@@ -27,7 +27,7 @@ function StarComponent() {
         ))
       }
       <p className="ml-2 text-xs text-primaryBlack dark:text-lightBg4">
-        Trusted by over 2,000 users
+        Trusted by over 1,000 users
       </p>
     </div>
   );
@@ -48,12 +48,12 @@ export default function HeroSection() {
       <p className="mt-4 text-sm text-center text-primaryGrey dark:text-lightBg">
       Transform empty or furnished spaces into stunning interiors with Palgo AI.<br />  Upload a picture of your room, choose a design style, and reimagine your interior space with AI.
       </p>
-      <PrimaryButton
+      <PrimaryButton 
         onClick={() => {
           scrollToSection("pricing");
         }}
       >
-        Get 7 Days Risk Free
+        Free 7 Day Trial
       </PrimaryButton>
       <Image
         src="/ai-interior-design_hero2x.webp"
